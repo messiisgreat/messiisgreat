@@ -10,18 +10,18 @@ The name's skyninjadev - Senior Full Stack Developer(🎯) extraordinaire with o
 
 💪  Skills & Expertise 💪
 
-- ChatBot, ChatGPT, ManyChat, Api Integration
-- Blockchain, Crypto, Solidity, Smart contract (ERC20, ERC721), NFT, web3.js, ether.js, Dapp, DAO, Defi, NFT, NFT marketplace, Opensea
-- React, React Hooks, React Context, 
-- Tailwind CSS, Material-UI, Bootstrap
-- React Native, Flutter
-- GraphQL, Apollo
-- Node.js, Express.js, Hapi.js
-- PHP, Wordpress, Laravel, Shopify, Yii, Symfony, Mangeto
-- MongoDB, Mysql, PostgreSQL, DynamoDB, Google Apps
-- AWS, DigitalOcean, Heroku 
+Front end technologies: React.js/Redux, Next.js, Vue.js, Typescript, Angular,  Wordpress, Shopify, SASS, HTML, CSS/CSS3, Bootstrap, Tailwind CSS, Responsive sites, etc. (I care about UI/UX and can build outstanding interfaces)
+⭐️Back end technologies: Node.js, Ruby on Rails, Python, Django, PHP
+⭐️Database : MongoDB, MySQL, PostgreSQL, Firebase, etc.
+⭐️API Development : JSON / Restful API / XML / SOAP / GraphQL
+⭐️Hosting: AWS, Google Cloud, Heroku, Digital Ocean, Azure
+⭐️Version Control: SVN, Git, Github, etc
+⭐️Project & Task Management: Trello, JIRA, Asana, etc
 
-I'm full time developer. Please contact me at james950716@gmail.com
+🔸 Blockchain/Cryptocurrency
+⭐️net : Ethereum, Solana, Avax, Wax, Algorand, Polygon, BSC, Polkadot
+⭐️language : Solidity(REC-20 ERC-721, ERC-1155, ERC-777)/Rust +
+web3.js/ethers.js, Golang, C++, Java, Python
 
 <a href="https://app.daily.dev/kogutstt2"><img align="right" alt="GIF" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSUTkOMMxAzpXYUG-r4lzXljg1lY41IfDoUA&usqp=CAU" height="320" style="max-width: 100%; visibility: visible; display: inline-block;" data-xblocker="passed" data-target="animated-image.originalImage"></a>
 
@@ -116,3 +116,9 @@ I'm full time developer. Please contact me at james950716@gmail.com
 </div>
 
 </td></tr></table>  
+
+ 📢 Contact & Further Information  📢
+<a href="linkedin.com/in/alfonso-alvarez-621b6127a">Linkedin</a>
+
+kingaku0530@gmail.com
+
