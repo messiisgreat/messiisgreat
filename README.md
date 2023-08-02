@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @skyninjadev
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
 🥳  Web & Mobile Mad 🥳 
 
 The name's skyninjadev - Senior Full Stack Developer(🎯) extraordinaire with over 7 years of experience in the biz. I'm currently available for full-time remote work and can contribute to your projects anytime, anywhere (yes, even from my bathtub).
@@ -120,8 +114,6 @@ web3.js/ethers.js, Golang, C++, Java, Python
  📢 Contact & Further Information  📢
 
 kingaku0530@gmail.com
-
-<a href="https://www.linkedin.com/in/alfonso-alvarez-621b6127a">Linkedin</a>
  
 https://www.linkedin.com/in/alfonso-alvarez-621b6127a
 
