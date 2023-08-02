@@ -42,7 +42,6 @@ The name's skyninjadev - Senior Full Stack Developer(🎯) extraordinaire with o
 <table><tr><td valign="top" width="33%">
 
 
-
 ### Frontend  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
@@ -65,7 +64,6 @@ The name's skyninjadev - Senior Full Stack Developer(🎯) extraordinaire with o
 </div>
 
 </td><td valign="top" width="33%">
-
 
 
 ### Backend  
