@@ -4,24 +4,12 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<p align="center">
-  <img src="akudama-drive-anime_4.1.gif" />
-</p>
-<p align="center">
- 💎 💎 💎 </br>
- Let's coding every day, Learn every time.<br>
- Let's go beyond our limits<br>
-</p>
+🥳  Web & Mobile Mad 🥳 
 
-## Hi 👋,AI Expert, Senior Web & Mobile Developer!
+The name's skyninjadev - Senior Full Stack Developer(🎯) extraordinaire with over 7 years of experience in the biz. I'm currently available for full-time remote work and can contribute to your projects anytime, anywhere (yes, even from my bathtub).
 
-AI expert with 2+years of experience building ChatBot and API integration.<br/>
-Senior full-stack developer with 5+ years of experience building high-performance presentations, layers, reusable components, and performance optimizations.
-Developed Front-End using React.js, Redux,Vue.js, NextJs- JavaScript, HTML, CSS. 
-Developed Back-End using PHP/Laravel, Python/Django, and Node/ExpressJS.
-Specialized in developing 20+ useful and well-organized websites and applications using React.js and Node.js. You should have sufficient experience with blockchain technologies such as DeFi, DAOs, cryptocurrencies, Ethereum, Avalanche, Solidity, Solana, Web3.js, smart contracts (NFTs/ERC20/ERC721), ICOs/IEOs, exchange platforms, and NFT marketplaces. Experience with SQL programming languages in MySQL, OraclePL/SQL and other database environments (e.g. MongoDB, PostgreSQL). Ability to effectively self-manage independent projects and lead and collaborate with team members on challenging web and blockchain projects that are often time-sensitive, use different time zones (Pacific, Eastern), and require strong creative and technical skills.
+💪  Skills & Expertise 💪
 
-Main Skills:
 - ChatBot, ChatGPT, ManyChat, Api Integration
 - Blockchain, Crypto, Solidity, Smart contract (ERC20, ERC721), NFT, web3.js, ether.js, Dapp, DAO, Defi, NFT, NFT marketplace, Opensea
 - React, React Hooks, React Context, 
@@ -128,9 +116,3 @@ I'm full time developer. Please contact me at james950716@gmail.com
 </div>
 
 </td></tr></table>  
-
-
-<hr>
-
-Thank you for your visiting my profile,
-If you need me, Anytime Ping Me!
