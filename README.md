@@ -118,8 +118,11 @@ web3.js/ethers.js, Golang, C++, Java, Python
 </td></tr></table>  
 
  📢 Contact & Further Information  📢
- 
-<a href="linkedin.com/in/alfonso-alvarez-621b6127a">Linkedin</a>
 
 kingaku0530@gmail.com
 
+<a href="https://www.linkedin.com/in/alfonso-alvarez-621b6127a">Linkedin</a>
+ 
+https://www.linkedin.com/in/alfonso-alvarez-621b6127a
+
+live:.cid.ef3fce9716632f59
