@@ -18,23 +18,15 @@ The name's skyninjadev - Senior Full Stack Developer(🎯) extraordinaire with o
 💪  Skills & Expertise 💪
 
 ⭐️Front end technologies: React.js/Redux, Next.js, Vue.js, Typescript, Angular,  Wordpress, Shopify, SASS, HTML, CSS/CSS3, Bootstrap, Tailwind CSS, Responsive sites, etc. (I care about UI/UX and can build outstanding interfaces)
-
 ⭐️Back end technologies: Node.js, Ruby on Rails, Python, Django, PHP
-
 ⭐️Database : MongoDB, MySQL, PostgreSQL, Firebase, etc.
-
 ⭐️API Development : JSON / Restful API / XML / SOAP / GraphQL
-
 ⭐️Hosting: AWS, Google Cloud, Heroku, Digital Ocean, Azure
-
 ⭐️Version Control: SVN, Git, Github, etc
-
 ⭐️Project & Task Management: Trello, JIRA, Asana, etc
-
 
 🔸 Blockchain/Cryptocurrency
 ⭐️net : Ethereum, Solana, Avax, Wax, Algorand, Polygon, BSC, Polkadot
-
 ⭐️language : Solidity(REC-20 ERC-721, ERC-1155, ERC-777)/Rust + web3.js/ethers.js, Golang, C++, Java, Python
 
 ## My Skill Set  
