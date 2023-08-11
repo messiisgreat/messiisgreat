@@ -1,6 +1,6 @@
 🥳  Web & Mobile Mad 🥳 
 
-The name's skyninjadev - Senior Full Stack Developer(🎯) extraordinaire with over 7 years of experience in the biz. I'm currently available for full-time remote work and can contribute to your projects anytime, anywhere (yes, even from my bathtub).
+The name's Ace - Senior Full Stack Developer(🎯) extraordinaire with over 7 years of experience in the biz. I'm currently available for full-time remote work and can contribute to your projects anytime, anywhere (yes, even from my bathtub).
 
 
 <a href="https://app.daily.dev/kogutstt2"><img align="right" alt="GIF" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSUTkOMMxAzpXYUG-r4lzXljg1lY41IfDoUA&usqp=CAU" height="320" style="max-width: 100%; visibility: visible; display: inline-block;" data-xblocker="passed" data-target="animated-image.originalImage"></a>
