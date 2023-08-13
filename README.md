@@ -103,5 +103,3 @@ The name's Ace - Senior Full Stack Developer(🎯) extraordinaire with over 7 ye
 kingaku0530@gmail.com
  
 https://www.linkedin.com/in/alfonso-alvarez-621b6127a
-
-live:.cid.ef3fce9716632f59
