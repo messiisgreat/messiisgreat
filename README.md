@@ -91,5 +91,3 @@ I can share my expertise as a highly skilled and experienced mage. However, I am
 kingaku0530@gmail.com
 
 https://t.me/AcreativityA
- 
-https://www.linkedin.com/in/alfonso-alvarez-621b6127a
