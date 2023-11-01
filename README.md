@@ -85,11 +85,3 @@ I can share my expertise as a highly skilled and experienced mage. However, I am
 </div>
 
 </td></tr></table>  
-
- 📢 Contact & Further Information  📢
- 
-Gmail : 
-kingaku0530@gmail.com
-
-ChatWork : 
-https://www.chatwork.com/Superer
