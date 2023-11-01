@@ -91,8 +91,5 @@ I can share my expertise as a highly skilled and experienced mage. However, I am
 Gmail : 
 kingaku0530@gmail.com
 
-Telegram : 
-https://t.me/AcreativityA
-
 ChatWork : 
 https://www.chatwork.com/Superer
