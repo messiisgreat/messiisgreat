@@ -20,7 +20,7 @@ I can share my expertise as a highly skilled and experienced mage. However, I am
 
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=anirudhjak06&column=8)](https://github-profile-trophy.vercel.app/?username=anirudhjak06&column=8)
+[![trophy](https://github-profile-trophy.vercel.app/?username=skyninjadev&column=8)](https://github-profile-trophy.vercel.app/?username=anirudhjak06&column=8)
 
  <br>
 
