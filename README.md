@@ -15,7 +15,7 @@ I can share my expertise as a highly skilled and experienced mage. However, I am
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=skyninjadev&column=-1&theme=gruvbox&title=Followers,Commits,Stars,Repositories,PullRequest,Issues,Organizations,MultiLanguage" alt="Followers, Commits, Stars, Repositories, PullRequest">
+<img src="https://github-profile-trophy.vercel.app/?username=skyninjadev&column=-1&theme=gruvbox&title=Followers,Commits,Stars,Repositories,PullRequest,Issues,Organizations,MultiLanguage,Reviews" alt="Followers, Commits, Stars, Repositories, PullRequest">
 </p>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=skyninjadev&langs_count=20&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
